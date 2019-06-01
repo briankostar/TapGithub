@@ -4,11 +4,6 @@
   "author": "Brian Ko",
   "version": "1.0.0",
   "description": "Replace new tab screen with GitHub trending projects.",
-  "icons": {
-    "16": "16.png",
-    "48": "48.png",
-    "128": "128.png"
-  },
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
